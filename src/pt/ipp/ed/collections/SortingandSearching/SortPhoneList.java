@@ -17,7 +17,7 @@ public class SortPhoneList {
     public static void main(String[] args) {
         Contact[] friends = new Contact[7];
         friends[0] = new Contact("Clark", "Kent", "610-555-7384");
-        friends[1] = new Contact("Bruce", "Wayne", "215-555-3827");
+        friends[1] = new Contact("Bruce", "Kent", "215-555-3827");
         friends[2] = new Contact("Peter", "Parker", "733-555-2969");
         friends[3] = new Contact("James", "Howlett", "663-555-3984");
         friends[4] = new Contact("Steven", "Rogers", "464-555-3489");
